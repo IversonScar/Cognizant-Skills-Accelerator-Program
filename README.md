@@ -19,7 +19,3 @@ This repository contains assignments and projects completed as part of the Cogni
 - [Recursive Functions Menu](introduction-to-python/projects/recursive_functions.py) - A menu-based program demonstrating recursive functions
 - [Calculator with Exception Handling](introduction-to-python/projects/calculator.py) - A calculator application with robust error handling
 
-## Future Sections
-- Generative AI
-- Prompt Engineering
-- Azure Machine Learning
