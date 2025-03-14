@@ -19,6 +19,20 @@ This repository contains assignments and projects completed as part of the Cogni
 - [Number Guessing Game](Introduction%20to%20Python/number_guessing_game.py) - An interactive game where players try to guess a random number
 - [Study Planner (Capstone Project)](Introduction%20to%20Python/study_planner_capstone.py) - A comprehensive application for managing study tasks, tracking performance, and generating personalized study plans
 
+## Prompt Engineering and Fine-tuning with LLMs
+### Assignments
+- [Tokenization and Embeddings](Prompt%20Engineering%20and%20Fine-tuning%20with%20LLMs/Assignments/tokenization_embeddings.py) - Exploring how text is tokenized and represented in LLMs
+- [Applying Concepts from Lessons](Prompt%20Engineering%20and%20Fine-tuning%20with%20LLMs/Assignments/Applying%20Concepts%20from%20Lessons.txt) - Implementation of prompt optimization techniques
+- [Fine-Tuning Theory and Practice](Prompt%20Engineering%20and%20Fine-tuning%20with%20LLMs/Assignments/Fine-Tuning%20Theory%20and%20Practice%20reflection.txt) - Reflection on fine-tuning techniques and applications
+- [Advanced Techniques, Ethics, and RLHF in LLMs](Prompt%20Engineering%20and%20Fine-tuning%20with%20LLMs/Assignments/Assignment%20Advanced%20Techniques%2C%20Ethics%2C%20and%20RLHF%20in%20LLMs.rtf) - Analysis of advanced LLM techniques and ethical considerations
+
+### Projects
+- [Exploring Large Language Models](Prompt%20Engineering%20and%20Fine-tuning%20with%20LLMs/Projects/tokenization_embeddings.py) - Projects exploring tokenization, embeddings, and prompt crafting
+- [Mastering Prompt Optimization and Evaluation](Prompt%20Engineering%20and%20Fine-tuning%20with%20LLMs/Projects/Mastering%20Prompt%20Optimization%20and%20Evaluation.txt) - Implementing effective prompt engineering techniques
+- [Comprehensive Fine-Tuning Task](Prompt%20Engineering%20and%20Fine-tuning%20with%20LLMs/Projects/Comprehensive_Fine_Tuning_Task.ipynb) - End-to-end fine-tuning of an LLM for a specific domain
+- [Project Comprehensive RLHF and Ethical AI Design](Prompt%20Engineering%20and%20Fine-tuning%20with%20LLMs/Projects/Project%20Comprehensive%20RLHF%20and%20Ethical%20AI%20Design.odt) - Implementing RLHF principles with ethical considerations
+- [Application Development (Capstone Project)](Prompt%20Engineering%20and%20Fine-tuning%20with%20LLMs/Capstone/Create%20Application%20Development.py) - Building an LLM-powered application with optimized prompts and fine-tuning
+
 ## Introduction to Generative AI
 ### Machine Learning Fundamentals
 - [Weather Prediction with Decision Trees](introduction-to-genai/Weather_Prediction_with_Decision_Trees.ipynb) - Implementing a decision tree model to predict weather conditions
