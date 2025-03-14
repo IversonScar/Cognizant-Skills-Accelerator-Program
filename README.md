@@ -21,7 +21,7 @@ This repository contains assignments and projects completed as part of the Cogni
 
 ## Prompt Engineering and Fine-tuning with LLMs
 ### Assignments
-- [Tokenization and Embeddings](Prompt-Engineering-and-Fine-tuning-with-LLMs/Assignments/tokenization_embeddings.py) - Exploring how text is tokenized and represented in LLMs
+- [Tokenization and Embeddings](PromptEngineeringandFinetuningwithLLMs/Assignments/tokenization_embeddings.py) - Exploring how text is tokenized and represented in LLMs
 - [Applying Concepts from Lessons](Prompt-Engineering-and-Fine-tuning-with-LLMs/Assignments/Applying-Concepts-from-Lessons.txt) - Implementation of prompt optimization techniques
 - [Fine-Tuning Theory and Practice](Prompt-Engineering-and-Fine-tuning-with-LLMs/Assignments/Fine-Tuning-Theory-and-Practice-reflection.txt) - Reflection on fine-tuning techniques and applications
 - [Fine-Tuning Implementation](Prompt-Engineering-and-Fine-tuning-with-LLMs/Assignments/fine_tuning.py) - Python implementation of fine-tuning techniques
