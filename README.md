@@ -21,23 +21,23 @@ This repository contains assignments and projects completed as part of the Cogni
 
 ## Prompt Engineering and Fine-tuning with LLMs
 ### Assignments
-- [Tokenization and Embeddings](Prompt%20Engineering%20and%20Fine-tuning%20with%20LLMs/Assignments/tokenization_embeddings.py) - Exploring how text is tokenized and represented in LLMs
-- [Applying Concepts from Lessons](Prompt%20Engineering%20and%20Fine-tuning%20with%20LLMs/Assignments/Applying%20Concepts%20from%20Lessons.txt) - Implementation of prompt optimization techniques
-- [Fine-Tuning Theory and Practice](Prompt%20Engineering%20and%20Fine-tuning%20with%20LLMs/Assignments/Fine-Tuning%20Theory%20and%20Practice%20reflection.txt) - Reflection on fine-tuning techniques and applications
-- [Fine-Tuning Implementation](Prompt%20Engineering%20and%20Fine-tuning%20with%20LLMs/Assignments/fine_tuning.py) - Python implementation of fine-tuning techniques
-- [Advanced Techniques, Ethics, and RLHF in LLMs](Prompt%20Engineering%20and%20Fine-tuning%20with%20LLMs/Assignments/Assignment%20Advanced%20Techniques%2C%20Ethics%2C%20and%20RLHF%20in%20LLMs.rtf) - Analysis of advanced LLM techniques and ethical considerations
+- [Tokenization and Embeddings](/Cognizant-Skills-Accelerator-Program/Prompt-Engineering-and-Fine-tuning-with-LLMs/Assignments/tokenization_embeddings.py) - Exploring how text is tokenized and represented in LLMs
+- [Applying Concepts from Lessons](/Cognizant-Skills-Accelerator-Program/Prompt-Engineering-and-Fine-tuning-with-LLMs/Assignments/Applying-Concepts-from-Lessons.txt) - Implementation of prompt optimization techniques
+- [Fine-Tuning Theory and Practice](/Cognizant-Skills-Accelerator-Program/Prompt-Engineering-and-Fine-tuning-with-LLMs/Assignments/Fine-Tuning-Theory-and-Practice-reflection.txt) - Reflection on fine-tuning techniques and applications
+- [Fine-Tuning Implementation](/Cognizant-Skills-Accelerator-Program/Prompt-Engineering-and-Fine-tuning-with-LLMs/Assignments/fine_tuning.py) - Python implementation of fine-tuning techniques
+- [Advanced Techniques, Ethics, and RLHF in LLMs](/Cognizant-Skills-Accelerator-Program/Prompt-Engineering-and-Fine-tuning-with-LLMs/Assignments/Assignment-Advanced-Techniques-Ethics-and-RLHF-in-LLMs.rtf) - Analysis of advanced LLM techniques and ethical considerations
 
 ### Projects
-- [Tokenization and Embeddings](Prompt%20Engineering%20and%20Fine-tuning%20with%20LLMs/Assignments/tokenization_embeddings.py) - Projects exploring tokenization, embeddings, and prompt crafting
-- [Tool Suggestion](Prompt%20Engineering%20and%20Fine-tuning%20with%20LLMs/Assignments/tool_suggestion.py) - Tool recommendation system using prompt engineering
-- [Mastering Prompt Optimization and Evaluation](Prompt%20Engineering%20and%20Fine-tuning%20with%20LLMs/Projects/Mastering%20Prompt%20Optimization%20and%20Evaluation.txt) - Implementing effective prompt engineering techniques
-- [Comprehensive Fine-Tuning Task](Prompt%20Engineering%20and%20Fine-tuning%20with%20LLMs/Projects/Comprehensive_Fine_Tuning_Task.ipynb) - End-to-end fine-tuning of an LLM for a specific domain
-- [Project Comprehensive RLHF and Ethical AI Design](Prompt%20Engineering%20and%20Fine-tuning%20with%20LLMs/Projects/Project%20Comprehensive%20RLHF%20and%20Ethical%20AI%20Design.odt) - Implementing RLHF principles with ethical considerations
-- [Application Development Capstone Project](Prompt%20Engineering%20and%20Fine-tuning%20with%20LLMs/Projects/Capstone/) - Building an LLM-powered application with optimized prompts and fine-tuning
-  - [Data Preparation](Prompt%20Engineering%20and%20Fine-tuning%20with%20LLMs/Projects/Capstone/01_data_preparation.ipynb) - Data processing and preparation for model training
-  - [Model Training](Prompt%20Engineering%20and%20Fine-tuning%20with%20LLMs/Projects/Capstone/02_model_training.ipynb) - Fine-tuning and training of the language model
-  - [Evaluation](Prompt%20Engineering%20and%20Fine-tuning%20with%20LLMs/Projects/Capstone/03_evaluation.ipynb) - Testing and evaluating model performance
-  - [Application Development](Prompt%20Engineering%20and%20Fine-tuning%20with%20LLMs/Projects/Capstone/Application%20Development.py) - Final application implementation
+- [Tokenization and Embeddings](/Cognizant-Skills-Accelerator-Program/Prompt-Engineering-and-Fine-tuning-with-LLMs/Assignments/tokenization_embeddings.py) - Projects exploring tokenization, embeddings, and prompt crafting
+- [Tool Suggestion](/Cognizant-Skills-Accelerator-Program/Prompt-Engineering-and-Fine-tuning-with-LLMs/Assignments/tool_suggestion.py) - Tool recommendation system using prompt engineering
+- [Mastering Prompt Optimization and Evaluation](/Cognizant-Skills-Accelerator-Program/Prompt-Engineering-and-Fine-tuning-with-LLMs/Projects/Mastering-Prompt-Optimization-and-Evaluation.txt) - Implementing effective prompt engineering techniques
+- [Comprehensive Fine-Tuning Task](/Cognizant-Skills-Accelerator-Program/Prompt-Engineering-and-Fine-tuning-with-LLMs/Projects/Comprehensive_Fine_Tuning_Task.ipynb) - End-to-end fine-tuning of an LLM for a specific domain
+- [Project Comprehensive RLHF and Ethical AI Design](/Cognizant-Skills-Accelerator-Program/Prompt-Engineering-and-Fine-tuning-with-LLMs/Projects/Project-Comprehensive-RLHF-and-Ethical-AI-Design.odt) - Implementing RLHF principles with ethical considerations
+- [Application Development Capstone Project](/Cognizant-Skills-Accelerator-Program/Prompt-Engineering-and-Fine-tuning-with-LLMs/Projects/Capstone/) - Building an LLM-powered application with optimized prompts and fine-tuning
+  - [Data Preparation](/Cognizant-Skills-Accelerator-Program/Prompt-Engineering-and-Fine-tuning-with-LLMs/Projects/Capstone/01_data_preparation.ipynb) - Data processing and preparation for model training
+  - [Model Training](/Cognizant-Skills-Accelerator-Program/Prompt-Engineering-and-Fine-tuning-with-LLMs/Projects/Capstone/02_model_training.ipynb) - Fine-tuning and training of the language model
+  - [Evaluation](/Cognizant-Skills-Accelerator-Program/Prompt-Engineering-and-Fine-tuning-with-LLMs/Projects/Capstone/03_evaluation.ipynb) - Testing and evaluating model performance
+  - [Application Development](/Cognizant-Skills-Accelerator-Program/Prompt-Engineering-and-Fine-tuning-with-LLMs/Projects/Capstone/Application-Development.py) - Final application implementation
 
 ## Introduction to Generative AI
 ### Machine Learning Fundamentals
